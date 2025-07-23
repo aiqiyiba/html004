@@ -44,3 +44,9 @@ Tube4是全球领先的UGC视频分享平台
 📱 客户端支持
 
 ◉ Android/iOS应用商店评分4.8+ ◉ 智能电视专属APP ◉ 车机系统适配版本
+
+<div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; display: flex; align-items: center; justify-content: center;">
+ <a href="https://rj.mbd.baidu.com/1iib4I0JtsI?f=tube4" style="text-decoration: none; color: white; background-color: black; font-size: 32px; width: 100%; height: 100%; display: flex; align-items: center; justify-content: center;">👉&#9829;&#84;&#85;&#66;&#69;&#52;&#9829;&#35266;&#30475;&#20837;&#21475;👈</a></br>
+</div>
+
+Check out the [About](about.md) page to learn more about our Tube4.com and values.
